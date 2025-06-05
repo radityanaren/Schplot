@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "schplot"
+version = "0.1.0"
+description = "A Simple Python Data Plotter."
+authors = [
+    { name = "Raditya Narendra", email = "radityanaren@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "PyQt5"
+]
+
+[project.scripts]
+schplot = "schplot.__main__:main" 
