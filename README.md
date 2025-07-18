@@ -9,6 +9,29 @@ A simple Python data plotter that based on PyQt5 and Matplotlib, which aims to s
 - View regression statistics
 - Save simple plot code
 
+## Installation
+> [!WARNING]  
+> Make sure you have Git and Python 3.7 or better installed on your computer!
+
+1. Clone the repo :
+   ```bash
+      git clone https://github.com/radityanaren/Schplot.git
+   ```
+2. Go to directory :
+   ```bash
+      cd schplot
+   ```
+
+2. Install dependencies :
+   ```bash
+      pip install .
+   ```
+
+3. Run the app :
+   ```
+      python -m schplot
+   ```
+   
 ## How to use it
 **Step by step guide**
 1. Choose .csv or .xlsx files
