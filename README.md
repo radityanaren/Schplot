@@ -1,6 +1,6 @@
 # Schplot
 
-A simple Python data plotter that based on PyQt5 and Matplotlib, which aims to simplify minor works that requires Python visualisations. 
+This is just a simple fun project which is a Python data plotter that based on PyQt5 and Matplotlib, which aims to simplify minor works that requires Python visualisations. 
 
 ## Features
 - Load CSV or Excel data
