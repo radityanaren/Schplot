@@ -2,6 +2,8 @@
 
 This is just a simple fun project which is a Python data plotter that based on PyQt5 and Matplotlib, which aims to simplify minor works that requires Python visualisations. 
 
+![Site preview](https://radityanaren.github.io/images/schplot.jpeg)
+
 ## Features
 - Load CSV or Excel data
 - Plot multiple data series
