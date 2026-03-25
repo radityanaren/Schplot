@@ -17,7 +17,7 @@ This is just a simple fun project which is a Python data plotter that based on P
 
 1. Clone the repo :
    ```bash
-      git clone https://github.com/radityanaren/Schplot.git
+      git clone https://github.com/radityanaren/schplot.git
    ```
 2. Go to directory :
    ```bash
@@ -46,4 +46,4 @@ This is just a simple fun project which is a Python data plotter that based on P
 > [!IMPORTANT]  
 > you have to press "update plot" button to see the plot setting changes
 
---- 
+---
